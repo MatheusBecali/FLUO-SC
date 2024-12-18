@@ -9,7 +9,6 @@ If you encounter any issues, bugs, or have suggestions, feel free to open an iss
 ## 🚀 Features
 
 - Implementations of convolutional neural networks (CNNs) for fluorescence image analysis.
-- Custom baseline combination methods: MetaNet and MetaBlock.
 - Scripts for benchmarking experiments across multiple datasets.
 - Easy-to-use integration with the **Sacred** experiment management library.
 
