@@ -11,11 +11,6 @@ the full image path.
 """
 
 import os
-import shutil
-import csv
-
-
-import os
 import csv
 
 def _createCSV():
