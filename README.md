@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 - **`my_models`**: Contains CNN model implementations.
 - **`benchmarks`**: Includes scripts for running experiments on each dataset.
-
+- **`dataset`**: Contains the folders of the datasets used.
 ### Sacred Integration
 
 The code uses **Sacred**, a framework for managing machine learning experiments. While you don't need prior knowledge of Sacred to run the code, it is a powerful tool that we recommend learning for better experiment organization.
@@ -55,6 +55,17 @@ The code uses **Sacred**, a framework for managing machine learning experiments.
 If you prefer not to use Sacred, you can modify parameters directly in the script files.
 
 ---
+
+## 📊 Datasets Links
+
+The datasets used in this project are openly available for download on **Data Mendeley**:
+
+- **[PAD-UFES-20](https://data.mendeley.com/datasets/zr7vgbcyr2/1)**: Dataset of skin lesion images, including metadata, for automated diagnosis.
+- **[FLUO-SC](https://data.mendeley.com/datasets/s8n68jj678/1)**: Dataset containing fluorescence images of skin lesions.
+
+Please refer to the respective dataset pages for more information on their content and usage.
+
+--- 
 
 ## 🛠 Usage Instructions
 
