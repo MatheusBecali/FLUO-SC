@@ -5,7 +5,7 @@
 
 # FLUO-SC-Code
 
-This repository contains the code developed for the **Fluorescence Images of Skin Lesions and Automated Diagnosis Using Convolutional Neural Networks** paper. It provides tools and scripts for skin lesion analysis and classification using deep learning models.
+This repository contains the code developed for the [**Fluorescence Images of Skin Lesions and Automated Diagnosis Using Convolutional Neural Networks**](https://doi.org/10.1016/j.pdpdt.2024.104462) paper. It provides tools and scripts for skin lesion analysis and classification using deep learning models.
 
 If you encounter any issues, bugs, or have suggestions, feel free to open an issue or contact me directly. Contributions are always welcome!
 
